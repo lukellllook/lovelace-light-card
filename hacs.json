@@ -1,0 +1,13 @@
+{
+  "name": "Entity Controller Card",
+  "description": "A customizable entity controller card for Home Assistant Lovelace",
+  "version": "1.0.0",
+  "homeassistant": "2023.1.0",
+  "frontend_auto_format": true,
+  "zip_release": true,
+  "hide_default_branch": true,
+  "domains": [],
+  "category": "plugin",
+  "state": "published",
+  "publishers": []
+}
